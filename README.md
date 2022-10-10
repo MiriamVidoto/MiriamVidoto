@@ -2,6 +2,15 @@
 
 ✨ Meu nome é Miriam e atualmente sou estudante de Desenvolvimento Web na TRYBE  ✨
 
+Como entrar em contato comigo: miriamvidoto.hdg@gmail.com
+
+<h3 align="left">Vamos nos conectar?</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/miriam-vidoto/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profthiago" /></a>
+<a href="https://m.facebook.com/miriamvidoto.hdg" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="thiagobraddock"  /></a>
+<a href="https://www.instagram.com/miriam_vidoto/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
+</p>  
+
 <div align="center">
 
   ### Habilidades
