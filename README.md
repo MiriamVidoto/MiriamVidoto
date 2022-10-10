@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Meu+nome+é+Miriam!)](https://git.io/typing-svg)
 
-<p><strong> Sou estudante de Desenvolvimento Web na TRYBE  </strong> </p>
+<p><img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="18px" width="18px"><strong> Sou estudante de Desenvolvimento Web na TRYBE  </strong> </p>
 
 <p> Como entrar em contato comigo: miriamvidoto.hdg@gmail.com </p>
 
