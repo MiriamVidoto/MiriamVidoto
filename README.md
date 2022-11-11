@@ -1,20 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Meu+nome+é+Miriam!)](https://git.io/typing-svg)
 
-<p>Meu nome é Miriam, tenho 32 anos , sou filha da Sueli e do Junior, esposa do Diego e mãe da Heloísa de 10 anos, da Giulia de 6 anos e da Mag (minha bebê de 4 patas), sou brasileira e atualmente meu lar está em Guarujá - SP.</p>
+<p>👨‍👩‍👧‍👧🐶 Esposa do Diego, mãe da Heloísa de 10 anos, da Giulia de 6 anos e da Mag (minha bebê de 4 patas), amo minha família! </p>
+
+<p>📍 Sou brasileira e atualmente meu lar está em Guarujá -SP</p>
 
 <p><img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="18px" width="18px"><strong> Sou estudante de Desenvolvimento Web na TRYBE  </strong>, onde aprendo um pouco mais a cada dia para me tornar uma Dev Full Stack</p>
 
-<p>Focada na criação e desenvolvimento de novas ideias, apaixonada por lógica e pela área de Tecnologia.</p>
+<p>💡 Focada na criação e desenvolvimento de novas ideias, apaixonada por lógica e pela área de Tecnologia.</p>
 
-<p>"O segredo não está no que se sabe, mas no que se está disposto a aprender!"</p>
+<p>✨ "O segredo não está no que se sabe, mas no que se está disposto a aprender!"</p>
 
-<p> Como entrar em contato comigo: miriamvidoto.hdg@gmail.com </p>
+<p>📬 Como entrar em contato comigo: miriamvidoto.hdg@gmail.com </p>
 
 <h3 align="left">Vamos nos conectar?</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/miriam-vidoto/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profthiago" /></a>
-<a href="https://m.facebook.com/miriamvidoto.hdg" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="thiagobraddock"  /></a>
-<a href="https://www.instagram.com/miriam_vidoto/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
+<a href="https://www.linkedin.com/in/miriam-vidoto/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="miriamvidoto" /></a>
+<a href="https://m.facebook.com/miriamvidoto.hdg" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="miriamvidoto"  /></a>
+<a href="https://www.instagram.com/miriam_vidoto/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="miriamvidoto"  /></a>
 </p>  
 
 <div>
