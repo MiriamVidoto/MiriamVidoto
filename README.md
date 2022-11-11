@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Meu+nome+é+Miriam!)](https://git.io/typing-svg)
 
-<p><img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="18px" width="18px"><strong> Sou estudante de Desenvolvimento Web na TRYBE  </strong> </p>
+<p>Meu nome é Miriam, tenho 32 anos , sou filha da Sueli e do Junior, esposa do Diego e mãe da Heloísa de 10 anos, da Giulia de 6 anos e da Mag (minha bebê de 4 patas), sou brasileira e atualmente meu lar está em Guarujá - SP.</p>
+
+<p><img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="18px" width="18px"><strong> Sou estudante de Desenvolvimento Web na TRYBE  </strong>, onde aprendo um pouco mais a cada dia para me tornar uma Dev Full Stack</p>
+
+<p>Focada na criação e desenvolvimento de novas ideias, apaixonada por lógica e pela área de Tecnologia.</p>
+
+<p>"O segredo não está no que se sabe, mas no que se está disposto a aprender!"</p>
 
 <p> Como entrar em contato comigo: miriamvidoto.hdg@gmail.com </p>
 
