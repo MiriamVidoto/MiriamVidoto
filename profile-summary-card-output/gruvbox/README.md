@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/MiriamVidoto/MiriamVidoto/main/profile-summary-card-output/gruvbox/4-productive-time.svg)
-```
-
-    
