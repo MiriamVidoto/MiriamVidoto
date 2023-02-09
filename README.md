@@ -36,11 +36,15 @@
                 <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
             </td>
             <td width="80px" align="center">
-                <span><strong>React</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+                <span><strong>TypeScript</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
             </td>
         </tr>
         <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>React</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
             <td width="80px" align="center">
                 <span><strong>Redux</strong></span><br>
                 <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
@@ -52,10 +56,6 @@
             <td width="80px" align="center">
                 <span><strong>RTL</strong></span><br>
                 <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
-            </td>
-            <td width="80px" align="center">
-                <span><strong>ESLint</strong></span><br>
-                <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
             </td>
         </tr>
         <tr valign="top">
@@ -71,7 +71,7 @@
                 <span><strong>Node</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
             </td>
-                <td width="80px" align="center">
+            <td width="80px" align="center">
                 <span><strong>MongoDB</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
             </td>
@@ -84,6 +84,24 @@
             <td width="80px" align="center">
                 <span><strong>Chai</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Python</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+              </td>
+            <td width="80px" align="center">
+                <span><strong>Express</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
+            </td>
+        </tr>
+                 <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>Mocha</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>ESLint</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
             </td>
             <td width="80px" align="center">
                 <span><strong>Git</strong></span><br>
