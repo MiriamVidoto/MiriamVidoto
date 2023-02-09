@@ -65,7 +65,7 @@
             </td>
             <td width="80px" align="center">
                 <span><strong>Mysql</strong></span><br>
-                <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+                <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
             </td>
             <td width="80px" align="center">
                 <span><strong>Node</strong></span><br>
