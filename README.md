@@ -86,7 +86,7 @@
                 <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
             </td>
             <td width="80px" align="center">
-                <span><strong>git</strong></span><br>
+                <span><strong>Git</strong></span><br>
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
               </td>
             <td width="80px" align="center">
