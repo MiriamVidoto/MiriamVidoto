@@ -96,8 +96,8 @@
         </tr>
                  <tr valign="top">
             <td width="80px" align="center">
-                <span><strong>Mocha</strong></span><br>
-                <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
+                <span><strong>Linux</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
             </td>
             <td width="80px" align="center">
                 <span><strong>ESLint</strong></span><br>
