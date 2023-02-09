@@ -24,56 +24,74 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+                <span><strong>HTML</strong></span><br>
+                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+                <span><strong>CSS</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Javascript</strong></span><br>
-            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+                <span><strong>Javascript</strong></span><br>
+                <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>RTL</strong></span><br>
-            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+                <span><strong>React</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Docker</strong></span><br>
-            <img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+                <span><strong>Redux</strong></span><br>
+                <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Mysql</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+                <span><strong>Jest</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Node</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+                <span><strong>RTL</strong></span><br>
+                <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
             </td>
             <td width="80px" align="center">
-            <span><strong>ESLint</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+                <span><strong>ESLint</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>Docker</strong></span><br>
+                <img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Mysql</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Node</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+            </td>
+                <td width="80px" align="center">
+                <span><strong>MongoDB</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+            </td>
+        </tr>
+         <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>Mocha</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Chai</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>git</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+              </td>
+            <td width="80px" align="center">
+                <span><strong>GitHub</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
             </td>
         </tr>
     </tbody>
