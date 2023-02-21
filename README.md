@@ -4,7 +4,7 @@
 
 <p>📍 Sou brasileira e atualmente meu lar está em Guarujá -SP</p>
 
-<p><img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="18px" width="18px"> Sou estudante de Desenvolvimento Web na <strong> TRYBE  </strong>, onde aprendo um pouco mais a cada dia para me tornar uma Dev Full Stack</p>
+<p>👩‍💻 Sou estudante de Desenvolvimento Web na <strong> TRYBE  </strong>, onde aprendo um pouco mais a cada dia para me tornar uma Dev Full Stack</p>
 
 <p>💡 Focada na criação e desenvolvimento de novas ideias, apaixonada por lógica e pela área de Tecnologia.</p>
 
