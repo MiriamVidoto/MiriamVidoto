@@ -1,17 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Meu+nome+é+Miriam!)](https://git.io/typing-svg)
 
-- 👨‍👩‍👧‍👧 Esposa do Diego, mãe da Heloísa, da Giulia e da Mag 🐶(minha bebê de 4 patas),❤️ amo minha família! 
+👨‍👩‍👧‍👧 Esposa do Diego, mãe da Heloísa, da Giulia e da Mag 🐶(minha bebê de 4 patas),❤️ amo minha família! 
 
-- 📍 Sou brasileira e atualmente meu lar está em Guarujá -SP
+📍 Sou brasileira e atualmente meu lar está em Guarujá -SP
 
-- 👩‍💻 Sou estudante de Desenvolvimento Web na **TRYBE**, onde aprendo um pouco mais a cada dia para me tornar uma Dev Full Stack
+👩‍💻 Sou estudante de Desenvolvimento Web na **TRYBE**, onde aprendo um pouco mais a cada dia para me tornar uma Dev Full Stack
 
-- 💡 Focada na criação e desenvolvimento de novas ideias, apaixonada por lógica e pela área de Tecnologia.
+`"O segredo não está no que se sabe, mas no que se está disposto a aprender!"`
 
-- ✨ "O segredo não está no que se sabe, mas no que se está disposto a aprender!"
 
-- 📬 Como entrar em contato comigo: [miriamvidoto.hdg@gmail.com](mailto:miriamvidoto.hdg@gmail.com)
-
+Como entrar em contato comigo: [miriamvidoto.hdg@gmail.com](mailto:miriamvidoto.hdg@gmail.com)
 
 <h3 align="left">Vamos nos conectar?</h3>
 <p align="left">
@@ -40,6 +38,10 @@
                 <span><strong>TypeScript</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
             </td>
+            <td width="80px" align="center">
+                <span><strong>Python</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -58,6 +60,10 @@
                 <span><strong>RTL</strong></span><br>
                 <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
             </td>
+            <td width="80px" align="center">
+                <span><strong>Node</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -69,15 +75,9 @@
                 <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
             </td>
             <td width="80px" align="center">
-                <span><strong>Node</strong></span><br>
-                <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-            </td>
-            <td width="80px" align="center">
                 <span><strong>MongoDB</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
             </td>
-        </tr>
-         <tr valign="top">
             <td width="80px" align="center">
                 <span><strong>Mocha</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
@@ -86,16 +86,12 @@
                 <span><strong>Chai</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
             </td>
-            <td width="80px" align="center">
-                <span><strong>Python</strong></span><br>
-                <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-              </td>
+        </tr>
+        <tr valign="top">
             <td width="80px" align="center">
                 <span><strong>Express</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
             </td>
-        </tr>
-                 <tr valign="top">
             <td width="80px" align="center">
                 <span><strong>Linux</strong></span><br>
                 <img height="32px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
