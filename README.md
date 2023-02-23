@@ -1,16 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Meu+nome+é+Miriam!)](https://git.io/typing-svg)
 
-<p>👨‍👩‍👧‍👧 Esposa do Diego, mãe da Heloísa, da Giulia e da Mag 🐶(minha bebê de 4 patas),❤️ amo minha família! </p>
+- 👨‍👩‍👧‍👧 Esposa do Diego, mãe da Heloísa, da Giulia e da Mag 🐶(minha bebê de 4 patas),❤️ amo minha família! 
 
-<p>📍 Sou brasileira e atualmente meu lar está em Guarujá -SP</p>
+- 📍 Sou brasileira e atualmente meu lar está em Guarujá -SP
 
-<p>👩‍💻 Sou estudante de Desenvolvimento Web na <strong> TRYBE  </strong>, onde aprendo um pouco mais a cada dia para me tornar uma Dev Full Stack</p>
+- 👩‍💻 Sou estudante de Desenvolvimento Web na **TRYBE**, onde aprendo um pouco mais a cada dia para me tornar uma Dev Full Stack
 
-<p>💡 Focada na criação e desenvolvimento de novas ideias, apaixonada por lógica e pela área de Tecnologia.</p>
+- 💡 Focada na criação e desenvolvimento de novas ideias, apaixonada por lógica e pela área de Tecnologia.
 
-<p>✨ "O segredo não está no que se sabe, mas no que se está disposto a aprender!"</p>
+- ✨ "O segredo não está no que se sabe, mas no que se está disposto a aprender!"
 
-<p>📬 Como entrar em contato comigo: miriamvidoto.hdg@gmail.com </p>
+- 📬 Como entrar em contato comigo: [miriamvidoto.hdg@gmail.com](mailto:miriamvidoto.hdg@gmail.com)
+
 
 <h3 align="left">Vamos nos conectar?</h3>
 <p align="left">
