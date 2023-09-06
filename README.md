@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Meu+nome+é+Miriam!)](https://git.io/typing-svg)
 
-👨‍👩‍👧‍👧 Esposa do Diego, mãe da Heloísa, da Giulia e da Mag 🐶(minha bebê de 4 patas),❤️ amo minha família! 
+👨‍👩‍👧‍👧 Esposa do Diego, mãe da Heloísa e da Giulia 
+ Sou tutora e da Mag 🐶 do Tom 😺 e da Lua 😽 (meus filhos de 4 patas)
+❤️ amo minha família! 
 
 📍 Sou brasileira e atualmente meu lar está em Guarujá -SP
 
