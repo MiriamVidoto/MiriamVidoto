@@ -6,7 +6,9 @@
 
 📍 Sou brasileira e atualmente meu lar está em Guarujá -SP
 
-👩‍💻 Sou estudante de Desenvolvimento Web na **TRYBE**, onde aprendo um pouco mais a cada dia para me tornar uma Dev Full Stack
+👩‍💻 Sou formada em Desenvolvimento Web pela **TRYBE** uma escola de tecnologia que ensina a programar, a aprender e a trabalhar.
+
+📚 Amo estudar e aprender algo novo todos os dias!
 
 `"O segredo não está no que se sabe, mas no que se está disposto a aprender!"`
 
