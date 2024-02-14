@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Meu+nome+é+Miriam!)](https://git.io/typing-svg)
 
 👨‍👩‍👧‍👧 Esposa do Diego, mãe da Heloísa e da Giulia <br>
- Sou tutora da Mag 🐶 do Tom 😺 e da Lua 😽 (meus filhos de 4 patas) <br>
+ Sou tutora do Tom 😺 e da Lua 😽 (meus filhos de 4 patas) <br>
 ❤️ amo minha família! 
 
-📍 Sou brasileira e atualmente meu lar está em Guarujá -SP
+📍 Sou brasileira e atualmente meu lar está em Mauá -SP
 
 👩‍💻 Sou formada em Desenvolvimento Web pela **TRYBE** uma escola de tecnologia que ensina a programar, a aprender e a trabalhar.
 
