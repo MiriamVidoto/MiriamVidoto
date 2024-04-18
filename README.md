@@ -8,6 +8,8 @@
 
 👩‍💻 Sou formada em Desenvolvimento Web pela **TRYBE** uma escola de tecnologia que ensina a programar, a aprender e a trabalhar.
 
+👩🏻‍🎓 Cursando bacharelado em **Engenharia de Software** na Anhanguera.
+
 📚 Amo estudar e aprender algo novo todos os dias!
 
 `"O segredo não está no que se sabe, mas no que se está disposto a aprender!"`
